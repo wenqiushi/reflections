@@ -1,0 +1,17 @@
+When would you want to create a remote repository rather than keeping all your work local?
+  --> You would want to create a remote repository rather than keeping all of your work locally on your computer for a number of reasons. You may want to collaborate with another working on another machine, or you'd like to change computers for some reason and you'd like to push code remotely. You can house all of your code here on GitHub rather than having it on your computer, saving space as well.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+  --> You'd want to always pull changes manually rather than havig Git automatically stay up-to-date with your remote repo because you may not want those changes made locally to be available to the public on GitHub. There may be a feature that you'd rather have locally than pushing that change to GitHub, rather than the sync being done automatically. 
+ Describe the differences between forks, clones, and branches. When would you use one instead of another?
+   --> Forks allow you to basically clone a repo from one person's GitHub page to another GitHub page, without having to locally push or pull any branches. Clones allow you to make a copy or 'clone' of any repo stored on GitHub provided a link, and pull it to a local repo. Branches allow you to maneuver or 'branch' off onto another version of code/ an experimental feature of a project, all stored either locally or remotely. 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  --> the benefit of having a copy of the lat known state of the remote stored locally is that you could easily go back and keep any changes of a file that may of had been lost or modified differently. 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  --> We could collaborate without the use of Git or GitHub by using email, word-to-mouth (being in the same room), chatroom, or just by working on one computer together. The easiest part would be settling merge conflicts much faster and without being far away from your partner on the project. What would make things harder is wasting time working in the same area emailing or sending files via wifi/ bluetooth which could become tedious. 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  --> You'd want ot make changes in a seperate branch rather than directly in master for perhaps an experimental feature for a project, 
+  or when collaborating with others on a specific project. When making changes directly on master, 
+  it's beneficial because you'll only have to work with the simplicity of your project,
+  using non-experimental features but just the basis of what the project will be, 
+  while having the commit history in case of a revision. The benefits of having a seperate branch allows us to do something completely different on a project without damaging or modifying anything yet, 
+  or give developers time to work on projects and tackle different portions making development much faster when collaborating. 
