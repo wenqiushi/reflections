@@ -3,6 +3,11 @@ When would you want to create a remote repository rather than keeping all your w
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
   --> You'd want to always pull changes manually rather than havig Git automatically stay up-to-date with your remote repo because you may not want those changes made locally to be available to the public on GitHub. There may be a feature that you'd rather have locally than pushing that change to GitHub, rather than the sync being done automatically. 
  Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork可以获取别人创作的程序，并让这个行为被对方知道，从而建立合作的基础联系，并不会污染原有程序版本。
+clone可以获取自己/别人的一个完整的仓库内容。
+分支让不同的版本能够有效共存，在不需要时不相互影响。
+
    --> Forks allow you to basically clone a repo from one person's GitHub page to another GitHub page, without having to locally push or pull any branches. Clones allow you to make a copy or 'clone' of any repo stored on GitHub provided a link, and pull it to a local repo. Branches allow you to maneuver or 'branch' off onto another version of code/ an experimental feature of a project, all stored either locally or remotely. 
 What is the benefit of having a copy of the last known state of the remote stored locally?
   --> the benefit of having a copy of the lat known state of the remote stored locally is that you could easily go back and keep any changes of a file that may of had been lost or modified differently. 
